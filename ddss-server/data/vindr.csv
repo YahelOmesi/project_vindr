@@ -1,0 +1,13 @@
+﻿image_id,study_id,series_id,patients_age,view_position,image_laterality,breast_birads,breast_density,finding_categories,finding_birads,split
+d8125545210c08e1b1793a5af6458ee2,b8d273e8601f348d3664778dae0e7e0b,b36517b9cbbcfd286a7ae04f643af97a,053Y,CC,L,BI-RADS 2,DENSITY C,['No Finding'],,training
+290c658f4e75a3f83ec78a847414297c,b8d273e8601f348d3664778dae0e7e0b,b36517b9cbbcfd286a7ae04f643af97a,053Y,MLO,L,BI-RADS 2,DENSITY C,['No Finding'],,training
+cd0fc7bc53ac632a11643ac4cc91002a,b8d273e8601f348d3664778dae0e7e0b,b36517b9cbbcfd286a7ae04f643af97a,053Y,CC,R,BI-RADS 2,DENSITY C,['No Finding'],,training
+71638b1e853799f227492bfb08a01491,b8d273e8601f348d3664778dae0e7e0b,b36517b9cbbcfd286a7ae04f643af97a,053Y,MLO,R,BI-RADS 2,DENSITY C,['No Finding'],,training
+dd9ce3288c0773e006a294188aadba8e,8269f5971eaca3e5d3772d1796e6bd7a,d931832a0815df082c085b6e09d20aac,042Y,CC,L,BI-RADS 1,DENSITY C,['No Finding'],,training
+57fbdd278af5c8789a02b355c11620d4,8269f5971eaca3e5d3772d1796e6bd7a,d931832a0815df082c085b6e09d20aac,042Y,MLO,L,BI-RADS 1,DENSITY C,['No Finding'],,training
+202d761a6b0f86faaeefc39ee18b1c53,8269f5971eaca3e5d3772d1796e6bd7a,d931832a0815df082c085b6e09d20aac,042Y,CC,R,BI-RADS 1,DENSITY C,['No Finding'],,training
+acccc1727b61b261844d86aa9de53536,8269f5971eaca3e5d3772d1796e6bd7a,d931832a0815df082c085b6e09d20aac,042Y,MLO,R,BI-RADS 1,DENSITY C,['No Finding'],,training
+a3d0e2394d7db36afab1b6e5e24da798,fa4dcd0f3ba24e86fc8dc25091f7ebd5,a78f4822d806b4f69ba9f0e0c68778b4,050Y,CC,L,BI-RADS 1,DENSITY C,['No Finding'],,training
+48b243704d16570155df12995a284b61,fa4dcd0f3ba24e86fc8dc25091f7ebd5,a78f4822d806b4f69ba9f0e0c68778b4,050Y,MLO,L,BI-RADS 1,DENSITY C,['No Finding'],,training
+bd6af21b792a7efb367407e94678fa1f,fa4dcd0f3ba24e86fc8dc25091f7ebd5,a78f4822d806b4f69ba9f0e0c68778b4,050Y,CC,R,BI-RADS 1,DENSITY C,['No Finding'],,training
+633ede597d7e514fe672fbdfc8c269eb,fa4dcd0f3ba24e86fc8dc25091f7ebd5,a78f4822d806b4f69ba9f0e0c68778b4,050Y,MLO,R,BI-RADS 1,DENSITY C,['No Finding'],,training
