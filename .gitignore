@@ -1,0 +1,15 @@
+﻿venv*/
+venv/
+__pycache__/
+*.py[cod]
+*.pyd
+*.zip
+*.rar
+*.7z
+*.dicom
+*.dcm
+.DS_Store
+Thumbs.db
+*.log
+*.db
+*.sqlite3
